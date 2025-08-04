@@ -129,29 +129,6 @@ export default function CollaborativeCursors() {
           <span className="text-xs font-bold">LIVE SESSION</span>
         </div>
       </div>
-
-      {/* Selection highlights */}
-      <div
-        className="absolute bg-emerald-200/30 border-2 border-emerald-400 rounded transition-all duration-1000 ease-in-out"
-        style={{
-          left: "15%",
-          top: "25%",
-          width: "30%",
-          height: "8%",
-          animation: "pulse 2s infinite",
-        }}
-      />
-
-      <div
-        className="absolute bg-purple-200/30 border-2 border-purple-400 rounded transition-all duration-1000 ease-in-out"
-        style={{
-          left: "45%",
-          top: "55%",
-          width: "25%",
-          height: "6%",
-          animation: "pulse 2s infinite 0.5s",
-        }}
-      />
     </div>
   )
 }

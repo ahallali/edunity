@@ -105,7 +105,7 @@ export default function LandingPage() {
                   </div>
 
                   <div className="space-y-4 text-left">
-                    <div className="bg-slate-50 dark:bg-slate-700/50 rounded-lg p-4 border-l-4 border-emerald-500">
+                    <div className="bg-slate-50 dark:bg-slate-700/50 rounded-lg p-4">
                       <div className="flex items-center space-x-2 mb-2">
                         <div className="w-6 h-6 bg-emerald-500 rounded-full flex items-center justify-center text-white text-xs font-bold">
                           S
@@ -118,7 +118,7 @@ export default function LandingPage() {
                       </p>
                     </div>
 
-                    <div className="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-4 border-l-4 border-blue-500">
+                    <div className="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-4">
                       <div className="flex items-center space-x-2 mb-2">
                         <div className="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center text-white text-xs font-bold">
                           AI
@@ -131,7 +131,7 @@ export default function LandingPage() {
                       </p>
                     </div>
 
-                    <div className="bg-purple-50 dark:bg-purple-900/20 rounded-lg p-4 border-l-4 border-purple-500">
+                    <div className="bg-purple-50 dark:bg-purple-900/20 rounded-lg p-4">
                       <div className="flex items-center space-x-2 mb-2">
                         <div className="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center text-white text-xs font-bold">
                           M
